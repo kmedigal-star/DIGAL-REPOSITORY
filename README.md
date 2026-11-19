@@ -20,7 +20,7 @@ A collection of three activities completed during the Prelim period covering cor
 <tr>
 <td align="center" valign="middle">
 
-<img src="https://robohash.org/Katrina.png?set=set4&size=160x160&bgset=bg1" alt="Cat Avatar" width="150">
+<img src="profile.jpeg" alt="Profile Photo" width="200">
 
 <br><br>
 
