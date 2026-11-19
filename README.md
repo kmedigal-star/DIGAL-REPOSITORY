@@ -64,6 +64,15 @@ A collection of three activities completed during the Prelim period covering cor
 
 </details>
 
+<details>
+<summary><b>✨ Curated Favorites & Vibe</b></summary>
+
+<br>
+
+<b>Acquired Skills:</b> <code>Use of Github, and purpose of different google workspace apps.</code><br>
+
+</details>
+
 </td>
 </tr>
 </table>
